@@ -10,6 +10,7 @@ Un blog increíble para le curso de Git y GitHub de Platzi
 * Trucos muy locos del profesor
 * Las personalidades multiples de Camilo
 * Creado por el increible Camilo Dev
+* Incluye ejemplos en Windows, Linux y Mac.
 
 
 Y como  un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver mi repo**](http://https://github.com/cardozo94/hyperblog "a ver mi repo")
